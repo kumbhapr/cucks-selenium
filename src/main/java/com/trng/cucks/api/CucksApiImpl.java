@@ -1,4 +1,4 @@
-package com.vodafone.vois.cucks.api;
+package com.trng.cucks.api;
 
 public class CucksApiImpl {
     public void get(int cukes) {
